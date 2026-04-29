@@ -39,5 +39,12 @@
   }
 
   .logga {
-    width: 10%;
+    width: 7%;
+    z-index: 10;
+  }
+
+  .loggadiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
